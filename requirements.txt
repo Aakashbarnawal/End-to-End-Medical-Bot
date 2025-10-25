@@ -1,0 +1,18 @@
+# Core
+flask
+python-dotenv
+pypdf
+
+# Pinecone
+pinecone-client[grpc]
+
+# LangChain v1.0+
+langchain
+langchain_openai
+langchain_pinecone
+langchain_community
+langchain_experimental
+
+# Embedding Model
+sentence-transformers
+-e.
